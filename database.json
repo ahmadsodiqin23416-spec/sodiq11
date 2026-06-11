@@ -1,0 +1,13 @@
+{
+    "users": {
+        "sodik8": {
+            "username": "sodik8",
+            "password": "$2y$10$YXCZsIzZ3BS.k1pNyP1MsubDURPavpzz38dUyWkxiS69UriwcqtcW",
+            "name": "Administrator",
+            "role": "admin",
+            "created_at": "2026-06-11 05:33:35"
+        }
+    },
+    "applications": [],
+    "payments": []
+}
